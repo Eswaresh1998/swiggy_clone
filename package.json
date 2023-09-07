@@ -1,0 +1,35 @@
+{
+  "name": "swiggy_clone",
+  "version": "1.0.0",
+  "description": "This is a clone of a swiggy food delivery app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eswaresh1998/swiggy_clone.git"
+  },
+  "keywords": [
+    "Food",
+    "delivery",
+    "app",
+    "swiggy",
+    "clone",
+    "zomato",
+    "clone",
+    "Eswaresh-karnati"
+  ],
+  "author": "Eswaresh Karnati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eswaresh1998/swiggy_clone/issues"
+  },
+  "homepage": "https://github.com/Eswaresh1998/swiggy_clone#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "dependencies": {
+    "react-dom": "^18.2.0"
+  }
+}
